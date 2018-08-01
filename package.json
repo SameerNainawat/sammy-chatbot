@@ -1,0 +1,15 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "Chat Bot for Spring",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b["
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
